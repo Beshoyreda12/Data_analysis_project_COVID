@@ -1,0 +1,1 @@
+\copy "CovidDeaths" FROM 'E:\data analysis\project\Data_analysis_project_COVID\CovidDeaths.csv' DELIMITER ',' CSV HEADER;
